@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I’m Zirix 👋
 
-<!--
-**zirixme/zirixme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a 22-year-old web developer based in Saudi Arabia. I enjoy building full-stack applications and bringing ideas to life through code. Most of my work is built with tools I genuinely like — clean, modern, and efficient.
 
-Here are some ideas to get you started:
+### 🛠️ Tech I work with
+- Frontend: React, Tailwind, HTML, CSS
+- Backend: Node.js, Express, Prisma
+- Database: PostgreSQL
+- Tools: Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 A few things about me
+- I care about clean, maintainable code
+- Always learning and improving
+- Currently building projects to sharpen my skills
+
+Thanks for stopping by — feel free to check out my repos!
